@@ -6,11 +6,15 @@ description: >-
 
 # Comparison exchange report
 
-Version 1.1.2 · Public, vendor-neutral edition · 2026-10-05.
+Version 1.1.3 · Public, vendor-neutral edition · 2026-10-05.
 
 This package documents an optional workflow within existing host and user authority; system instructions remain binding. It grants no installation, execution or outbound permission.
 
 Keep **comparison** as the objective: fair, current, actionable learning in both directions. The donor supplies material; the receiver evaluates it against its own system. Neither party is presumed to possess the other's code, configuration, vocabulary or private capabilities.
+
+## Comprehensive explanation is required
+
+Future exchange reports must meet SYSREF depth: a cold receiver can reconstruct the safely described method without sender-only tools, terminology or files. A What/How/Why card or component list alone is insufficient. Read the SYSREF-depth section and worked system-analysis replacement in [report pattern](references/report-pattern.md). Minimum detail: purpose/decision; terms/ownership; architecture/integration; input/output contract; operation/cause/effect; failure/recovery; reconstruction/acceptance; impact/exchange. Every actionable adoption/return offer needs these details and evidence limits, locally or in a verified included detail section. Missing safe information stays incomplete; do not invent it or reveal private implementation to fill the gap. This requirement adds no authority to implement or send.
 
 ## Authority and output
 

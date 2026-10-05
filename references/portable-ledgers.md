@@ -63,7 +63,7 @@ Dates and identities above are synthetic placeholders, not proof. Append only ma
 - Previous records remain intact and disagreements are appended.
 - Every public field, filename, comment, link and attachment fits the disclosure scope.
 
-Run checks with available receiver tools and record actual results. Reading this schema passes none of them.
+Run checks with available receiver tools and record dated observed results, assessor, tested scope and named failed/unknown items; state the number passed and denominator. Reading this schema passes none of them.
 
 ## Private ledger versus recipient projection
 

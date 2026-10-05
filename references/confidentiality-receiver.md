@@ -27,6 +27,8 @@ Record `check_id; assessor; input/package revision; observed task/output; eviden
 9. **Bilateral adoption decision:** receiver explains what changed, what was declined, costs/risks/limits and what is offered back, separating delivered work from proposals.
 10. **Independent safe adoption:** receiver gives actionable adoption/verification/recovery steps with no sender-only prerequisite, notices confidentiality/authority boundaries across the whole artifact, and names unresolved prerequisites.
 
+Before scoring, require a cold reader to reconstruct the offered method and its failure/recovery from the included contract; a bare tool list, unexplained title, sender-only path, “Those” or “owner TBD” fails the relevant terms/architecture/interface/adoption checks. A real file citation alone does not prove the mechanism or its useful outcome. Record a missing safe contract as incomplete, without assuming a missing donor capability.
+
 A check is PASS only when the observed answer/execution satisfies it; reading the checklist does not pass it. Report the number passed and the denominator, with each failed/unknown check named. **10/10** requires all ten PASS with real evidence. A sender's own trial can provide useful partial evidence but cannot be labelled independent recipient execution. No actual receiver attempt → independent receiver result UNKNOWN.
 
 This gate measures comprehension of the specific package/variant, not safety certification, general intelligence, design artistry, production readiness, savings or all-vendor compatibility. Keep performance/cost claims UNKNOWN unless separately measured with a stated workload and comparison baseline.
