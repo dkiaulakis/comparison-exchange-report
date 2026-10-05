@@ -4,11 +4,11 @@ A reusable workflow for fair technical comparisons and practical exchanges: what
 
 Compare tools, skills, plugins, Model Context Protocol (MCP) interfaces, workflows, or entire AI harnesses. A harness is the orchestration/runtime around a model or tool. The receiver should understand the exchange without the sender's infrastructure, code, terminology or accounts.
 
-**Public edition: 1.1.1.** Documentation only: no executable scripts, installer, telemetry, dependencies or credentials. Suitable for capable assistants and human teams across vendors and operating systems. Native skill discovery depends on the host; this package does not claim every vendor integration was tested.
+**Public edition: 1.1.2.** Documentation only: no executable scripts, installer, telemetry, dependencies or credentials. Suitable for capable assistants and human teams across vendors and operating systems. Native skill discovery depends on the host; this package does not claim every vendor integration was tested.
 
 ## Use with any assistant
 
-1. Download the repository using GitHub's archive option or your usual Git client.
+1. Obtain the files from the public [canonical repository](https://github.com/dkiaulakis/comparison-exchange-report) using GitHub's archive option or your usual Git client.
 2. Read [SKILL.md](SKILL.md). If your host supports skills, use its documented skill-directory placement. Otherwise attach these Markdown files or explicitly ask the assistant to read them.
 3. Provide the source material, receiver system, authorized evidence access, audience, output format and disclosure boundary.
 4. Specify comparison only or separately authorize a bounded adoption. Comparison does not authorize installation, publication, sending or production access.
@@ -33,12 +33,17 @@ History follows the comparison by default. Private audit records and recipient e
 
 ## Included files
 
+- [README.md](README.md): purpose, usage and package inventory.
 - [SKILL.md](SKILL.md): workflow and authority.
+- [CHANGELOG.md](CHANGELOG.md): release summaries.
+- [LICENSE](LICENSE): standard MIT grant.
 - [Report pattern](references/report-pattern.md): evidence states and matrix.
-- [Confidentiality and comprehension](references/confidentiality-receiver.md): disclosure review and ten observed checks.
+- [Confidentiality and receiving comprehension](references/confidentiality-receiver.md): disclosure review and ten observed checks.
 - [Worked exchange](references/worked-exchange.md): offline control, counterexample, repair and valid exception.
 - [Portable ledgers](references/portable-ledgers.md): optional corpus/decision/review records.
 - [Improvement loop](references/improvement-loop.md): evidence-backed refinement and revision history.
+
+The inventory contains nine authored documentation/license files. The body version identifies the edition without adding host-specific frontmatter fields; pin a Git commit and hash exact downloaded bytes with an available SHA-256 tool when identity matters. Any digest record must name its file, commit, collector and original-byte versus transformed-text scope; this package supplies no universal signature or verification service.
 
 The worked example is synthetic and in memory. It provides no production crash durability, concurrency protection or exactly-once guarantee. A receiver may implement the logical interface in an inspected offline temporary workspace. Nothing runs automatically.
 

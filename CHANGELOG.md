@@ -1,5 +1,11 @@
 # Changelog
 
+Detailed revision evidence and limits: [improvement loop](references/improvement-loop.md).
+
+## 1.1.2 — 2026-10-05
+
+Clarified idea-specific reviews, record states, oracle authorship, synthetic results and complete package inventory after independent Cline review. See the detailed revision record.
+
 ## 1.1.1 — 2026-10-05
 
 Receiving-report corrections: comparison-first layout; private audit versus safe projection; source-specific decisions and named actors; exact revision/hash scope; overlapping historical reviews; incomplete-reader limits; offline companion packaging; full approved signature; and evidence beside publication/send/test claims. Documentation only; authority and privacy boundaries retained.

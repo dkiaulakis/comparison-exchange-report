@@ -40,22 +40,24 @@ Rules/oracle (derive expected outputs from these rules, not from an implementati
 4. Known identifier with same message whose outcome is uncertain: return `unknown/outcome_unknown`, retry `inspect_outcome`, append nothing; request outcome inspection, not another effect.
 5. New valid intent: associate identifier with exact message, append once to the synthetic outbox, record completion, return `applied/ok`, retry `none`.
 
+These rules define the complete permitted `(status, code, retry)` triples: `(applied, ok, none)`, `(replayed, ok, none)`, `(rejected, invalid_input, none)`, `(rejected, payload_conflict, none)` and `(unknown, outcome_unknown, inspect_outcome)`. Any other combination violates this illustrative contract.
+
 For offline execution a receiving agent can implement this logical interface using its own standard library in a temporary directory. It must state that it implemented the example rather than discovered an installed product command. Inspect any generated code before running it; keep it offline and synthetic. Preserve actual outputs and any implementation mistakes. No helper supplied by this skill is required.
 
 ## Control, counterexample, repair and valid exception
 
 Use a fresh state for each independently labelled scenario. Within a scenario retain state between steps.
 
-| Scenario | Input sequence / precondition | Independently expected observable result |
+| Scenario | Input sequence / precondition | Sender-specified expected result, defined before implementation |
 | --- | --- | --- |
 | Control | `{ "intent_id": "sample-1", "message": "hello" }` | `applied/ok`, effect_count 1, retry none |
-| R0 counterexample | Same logical message retried as `sample-2` after `sample-1` applied | Both accepted, effect_count 2: identifier alone cannot detect that two identifiers mean the same intent |
+| R0 counterexample | Same logical message retried as `sample-2` after `sample-1` applied | Step 1: `applied/ok`, effect_count 1, retry none; step 2: `applied/ok`, effect_count 2, retry none. Identifier alone cannot detect that two identifiers mean the same intent |
 | Repair | Reuse `sample-1` with exact `hello` after first success | `replayed/ok`, effect_count remains 1, retry none |
 | Payload conflict | Reuse `sample-1` with `different` | `rejected/payload_conflict`, effect_count remains 1, retry none |
 | Outcome uncertain | State: `{ "operations": { "sample-1": { "message": "hello", "outcome": "uncertain" } }, "outbox": [{ "intent_id": "sample-1", "message": "hello" }] }`; request: `{ "intent_id": "sample-1", "message": "hello" }` | `unknown/outcome_unknown`, effect_count remains 1, retry inspect_outcome |
 | Conflict with uncertain outcome | Use the preceding uncertain state with request `{ "intent_id": "sample-1", "message": "different" }` | `rejected/payload_conflict`, effect_count 1, retry none; first-match rule 2 precedes rule 4 |
 | Invalid | Blank intent_id with message hello, empty state | `rejected/invalid_input`, effect_count 0, retry none |
-| Valid exception | A pure computation with no durable/external effect, such as summing two numbers | Repeating the computation causes no duplicate side effect; this operation record can be unnecessary overhead |
+| Valid exception | A pure computation with no durable/external effect, such as summing two numbers | Repeating the computation causes no duplicate side effect; this operation record can be unnecessary overhead. No operation record or `apply_intent` result contract applies to this separate pure computation |
 
 Counterexample is intentionally not cured by the repaired identifier contract: the requester must preserve intent identity. State loss and concurrent workers also need separate persistence/atomicity design. This in-memory example provides neither crash durability nor atomic protection across processes. A recipient who calls it production-safe has misunderstood its limits.
 

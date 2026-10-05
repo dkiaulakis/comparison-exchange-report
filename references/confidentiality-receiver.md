@@ -1,4 +1,4 @@
-# Confidentiality boundary and receiving comprehension
+# Confidentiality and receiving comprehension
 
 ## Two artifacts with different audiences
 
@@ -22,7 +22,7 @@ Record `check_id; assessor; input/package revision; observed task/output; eviden
 4. **Terms and roles:** receiver explains custom terms in ordinary language and maps actors/logical roles without sender vocabulary.
 5. **Architecture and boundaries:** receiver reconstructs data flow, storage, authority and untrusted-input boundaries from the package alone.
 6. **Interface contract:** receiver derives valid/invalid inputs, outputs and error semantics from self-contained schemas; distinguishes illustrative from installed interfaces.
-7. **Control execution:** receiver executes an inspected synthetic normal case offline and retains actual output compared against independently specified expectations.
+7. **Control execution:** receiver executes an inspected synthetic normal case offline and retains actual output compared against expectations specified before implementation. Identify who supplied the oracle. A sender-specified oracle can be independently executed and assessed by the receiver; it is not an independently authored oracle. Keep this distinction in the evidence record.
 8. **Counterexample and repair:** receiver executes the failure case and repaired case, explains failure/retry/recovery, and states a valid exception where the mechanism adds no value or must differ.
 9. **Bilateral adoption decision:** receiver explains what changed, what was declined, costs/risks/limits and what is offered back, separating delivered work from proposals.
 10. **Independent safe adoption:** receiver gives actionable adoption/verification/recovery steps with no sender-only prerequisite, notices confidentiality/authority boundaries across the whole artifact, and names unresolved prerequisites.
