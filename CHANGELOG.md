@@ -1,5 +1,10 @@
 # Changelog
 
+## 1.1.1 — 2026-10-05
+
+Receiving-report corrections: comparison-first layout; private audit versus safe projection; source-specific decisions and named actors; exact revision/hash scope; overlapping historical reviews; incomplete-reader limits; offline companion packaging; full approved signature; and evidence beside publication/send/test claims. Documentation only; authority and privacy boundaries retained.
+
+
 ## 1.1.0 — 2026-10-05
 
 First public vendor-neutral edition. Removed private reporting/scanning/validation prerequisites; retained evidence distinctions, comparison, disclosure/comprehension and synthetic retry contracts. Added optional multi-body and append-only review records, explicit report-only planning, useful take-only decisions, public author contacts and community links. This is documentation, not an installer or copy of the originating harness. Earlier portable refinements remain in the improvement reference.

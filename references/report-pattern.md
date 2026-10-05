@@ -2,9 +2,15 @@
 
 Use only the structure the comparison needs; preserve a requested template. This is comparison content, not a replacement for the host's formatting, publishing or proof governance.
 
+## Recipient-first reading order
+
+Default to purpose/audience/scope, the useful comparison and prioritized optional proposals, mechanisms and acceptance limits, then revision history. A user-provided template may choose another order. This is an editorial default, not authority to bypass host security or publish anything. Keep internal operational dashboards and recipient explanations as different views when their needs differ; do not display empty action scaffolds to a cold recipient.
+
+Name the actor on a proposal: sender’s instruction owner, receiver’s product team, or a joint contract. A priority is not a work order. Keep future acceptance cases explicitly unexecuted until actual results exist.
+
 ## Corpus and evidence ledger
 
-Inventory each supplied item with a stable local reference, title/type, supplied revision/date, count or size where helpful, read extent and dependencies/embedded assets. Duplicates remain listed with their relationship. Do not execute imported scripts to inventory them. If a package is partial, state the denominator: “4 of 5 supplied items read; one attachment inaccessible.” A complete supplied corpus is not a complete donor system inventory.
+Inventory each supplied item with a stable local reference, title/type, supplied revision/date, count or size where helpful, read extent and dependencies/embedded assets. Duplicates remain listed with their relationship. Do not execute imported scripts to inventory them. If a package is partial, state the denominator: “4 of 5 supplied items read; one attachment inaccessible.” A complete supplied corpus is not a complete donor system inventory. Count file copies, distinct byte revisions, declared names and selected/read revisions separately; explain quarantined or excluded items. Same-name differing bodies remain separate revisions. Describe whether a digest identifies original supplied bytes, redacted review text or the output artifact; identify who computed it. A source digest does not authenticate a summary or imply that a reviewer re-hashed it.
 
 For each important assertion use: `assertion; source/revision; asserted_at; checked_at; system; evidence_state; observation; limits`. Private ledger references can point to exact paths/receipts; shareable observations must use safe descriptions and synthetic reproduction instead.
 
@@ -20,16 +26,18 @@ For each important assertion use: `assertion; source/revision; asserted_at; chec
 | proposal | An idea or adaptation is offered | Delivered implementation or acceptance |
 | unknown | Evidence missing, stale, conflicting or unavailable | Failure or absence |
 
-States can coexist: installed but disabled; enabled with an observed failed output; source-only repair with runtime unknown. Use separate source/config/runtime/output observations where that prevents ambiguous labels. Historical evidence retains its date and never silently becomes current.
+States can coexist: installed but disabled; enabled with an observed failed output; source-only repair with runtime unknown. Use separate source/config/runtime/output observations where that prevents ambiguous labels. Historical evidence retains its date and never silently becomes current. Attribute observations to a safely named environment and assessor. A byte-identity probe is not an exercised provider call, fault injection, usability result or output-quality test. Refer to one shared observation from multiple rows without counting it repeatedly; a capability-category count is an index, not a pass count.
 
 ## Bilateral matrix
 
-One row per transferable idea, not per file or brand. Include these fields, splitting columns into linked detail rows if needed:
+One row per transferable idea, not per file or brand. Keep corpus coverage separate: one source revision may supply multiple ideas with different decisions, linked by the same source reference/hash. Do not multiply the source inventory because an idea has its own row. Include these fields, splitting columns into linked detail rows if needed:
 
 | Source / revision / idea | Donor evidence, advantage and limitation | Receiver BEFORE / CURRENT | Decision and exactly adopted / why | Observable proof / limits | Offered BACK / status | Costs, risks and valid exception |
 | --- | --- | --- | --- | --- | --- | --- |
 | Package A r2 / check invalid input before reserving work | Supplied example rejects blanks; identifier stability unknown | Before: reservations persisted before validation / Current: local repair rejects blanks first | Adapt validation order; do not copy reservation store | Synthetic blank case rejects with no reservation; runtime deployment unverified | Offer stable-identifier retry check as proposal, not delivered donor repair | Adds validation latency; fully local no-effect computations need no reservation |
 | Package B r1 / completion receipt | Source example binds receipt to an input fingerprint | Receiver already has dated input/output receipts | Decline duplicate component; reuse existing outcome and test compatibility | Current bounded receipt probe passes; portability untested | Offer documented receiver-compatible schema as proposal | Duplicate stores add inconsistency; different audit constraints may justify adaptation |
+
+Each decision must fit its particular source revision and receiver gap: explain the concrete method to reuse/adapt/decline, the actor, the prerequisite and the acceptance boundary. Keep a general policy once; do not copy “decline another stack” into unrelated documentation, asset discovery, conversion and analysis rows. Later review disagreement needs its safe direction when known; if withheld or unknown, it is not an invitation to adopt. A reciprocal label without its actual safe recommendation is not a visible offer.
 
 Avoid unilateral sales language. A donor can be clearer but less integrated; a receiver can be operationally proven but harder to adopt. Explain both with evidence. No need to invent reciprocal superiority; “no substantiated improvement to offer yet” is fair when true.
 
@@ -46,3 +54,9 @@ Include the following portable information, using logical names rather than priv
 - Evidence and exchange: safely stated dated observations, proposals, costs/risks and reciprocal improvements; ten-check results with actual evidence or unknown.
 
 The receiving reader should understand the mechanism without clicking a sender-only path. Optional public references may support explanation but cannot replace the schema or worked example. Avoid requiring a branded title, internal command, dashboard, sender infrastructure or proprietary code dump.
+
+## Historical reviews and safe projections
+
+Preserve original records privately. Explain reviewer labels as sender-side rereading passes rather than recipient acceptance. “Agree” affirms a historical decision; “disagree” contests it and does not authorize installation. Show contested direct-reuse/adaptation choices alongside the original suggestion. Counts by overlapping reviewer slots are not disjoint populations; state overlap and denominator.
+
+A recipient projection may omit unsafe fields or titles. Define any withholding label and preserve only a disclosure-safe identifier. If replacement direction, rationale or reciprocal detail is omitted, say so; do not leave an adoption-shaped label pointing to missing content. State which originals remain private, which companion contains which selected records, and what the export cannot reconstruct.

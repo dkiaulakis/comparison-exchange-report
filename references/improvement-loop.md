@@ -25,3 +25,11 @@ Any vendor can refine the skill; no vendor owns a private fork of its authority.
 - 1.1.0 public edition — 2026-10-05: removed private reporting/scanning prerequisites; added optional multi-body/review records and report-only planning; incorporated useful take-only recommendations; retained distinct same-name revisions and the offline example. Maintained separately from host-specific integration. Documentation portability does not certify native discovery on every vendor or production behavior.
 
 Public-release review correction: the synthetic retry schema allowed an unused same-intent result value. The public contract now lists only none and inspect_outcome, exactly as its five ordered rules return. Earlier source notes remain historical; this correction is part of the first public 1.1.0 edition.
+
+## 1.1.1 — 2026-10-05: receiving-report lessons
+
+Observed failures included collapsing distinct same-name revisions, copying private audit mappings/rationale into a receiving edition, history-first scaffolds, generic repeated adaptations, undefined overlapping review verdicts and completion claims detached from their evidence. The update separates private audit from safe projection; leads with comparison; ties each decision to its source/actor; defines hash, review and probe scopes; and checks packaging, signature, exact surface and send receipts. Existing history and genuine host authorization remain intact.
+
+The canonical name-based selection failure was reproduced through a fresh request-to-output trial: one comparison decision covered two distinct revisions. An independently specified output test failed; the minimal two-line identity/denominator correction produced two decisions and passed. Documentation refactoring and further receiving variants are qualified separately; this note alone claims neither universal vendor integration nor recipient execution.
+
+When landing or discovery fails, preserve an immutable candidate and actual base identity. Use the host’s safe current-base integration path; do not loop replaying an already-landed full history, overwrite peers or bypass genuine protections. Prove source publication and live instruction retrieval separately. An older served skill revision is a discovery/deployment limit, not proof that the new guidance is active.

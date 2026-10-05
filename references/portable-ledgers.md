@@ -4,15 +4,16 @@ These are illustrative logical schemas, not an installed service or validator. U
 
 ## Corpus
 
-Record each supplied item's safe `source_ref`, `revision`, `kind`, exact-byte `sha256` (64 hexadecimal characters or null when unavailable), `read_extent` (complete, partial, inaccessible), and `duplicate_of` (safe reference or null). Record unread/partial limits. Equal names do not imply equal content.
+Record each supplied item's safe `source_ref`, `revision`, `kind`, exact-byte `sha256` (64 hexadecimal characters or null when unavailable), `read_extent` (complete, partial, inaccessible), and `duplicate_of` (safe reference or null). Record unread/partial limits. Equal names do not imply equal content. Track file copies, distinct hashes, names and selected/read revisions with separate denominators. Describe hash scope and collector; original-byte hashes need not match redacted narrative text.
 
 ## Decision
 
-One row per unique body/revision:
+Corpus coverage counts each unique body/revision once. A decision record below addresses one revision-and-idea pair; several idea decisions may reference the same source revision without increasing its inventory count. A body-level summary does not replace conflicting idea-level decisions.
 
 ```json
 {
   "capability": "Stable identity for retries",
+  "idea_ref": "stable-retry-identity",
   "source_ref": "synthetic-D1",
   "source_sha256": null,
   "source_hash_limit": "Synthetic narrative, not a supplied file",
@@ -51,7 +52,7 @@ Decision: `reuse`, `adapt`, `decline`, `defer`. Adoption status follows the evid
 }
 ```
 
-Dates and identities above are synthetic placeholders, not proof. Append only material actually read. Verdict: `agree`, `disagree`, `not-assessed`. Distinguish attempts; never impersonate reviewers. Retain previous decisions, reviews and chronology.
+Dates and identities above are synthetic placeholders, not proof. Append only material actually read. Verdict: `agree`, `disagree`, `not-assessed`. Distinguish attempts; never impersonate reviewers. Retain previous decisions, reviews and chronology. Define reviewer labels and whether verdicts affirm or contest the historical decision. A disagreement does not supply its replacement direction; record that direction only when known and safe, otherwise mark it withheld/unknown rather than prompting adoption. Count overlapping reviewer populations separately.
 
 ## Local checks
 
@@ -62,3 +63,7 @@ Dates and identities above are synthetic placeholders, not proof. Append only ma
 - Every public field, filename, comment, link and attachment fits the disclosure scope.
 
 Run checks with available receiver tools and record actual results. Reading this schema passes none of them.
+
+## Private ledger versus recipient projection
+
+The canonical private ledger may contain exact mappings and rationale. Its recipient projection must select safe fields; a validator for the private schema does not require publishing those private fields. Omit unsafe rationale/configuration entirely when generalization would still expose it. State omissions and whether the output is a method comparison, classification index or partial view. Keep safe, source-specific adaptation and a concrete reciprocal recommendation where offered; an omitted detail is not an offer or an adoption instruction.
