@@ -52,3 +52,9 @@ Independent semantic review warned that proposed capture and brand-dimension rec
 ## 1.1.5 — 2026-10-07: subject-specific adoption plans
 
 A subject-focused exchange reused its companion's broad method plan, mixing unrelated methods into current scope despite a narrower request. The correction keeps current adoptions and future plans relevant to each named subject, references other subjects through verified companion links, and permits a shared method when its direct effect is explained. Historical records and unfinished owned work remain visible. Author usage checks and their limits are recorded separately; this guidance alone proves neither report delivery, blind recipient comprehension nor all-vendor execution.
+
+## 1.1.6 — 2026-10-08: qualify the current comparison subject
+
+A current comparison was being qualified from an early change packet that omitted later methods and repairs. Earlier bounded reviews remain valid for their stated scope but cannot establish those later claims. The correction reconciles current claims with reviewed source and any claimed running revision, preserves contributions and obligations under their actual owners, and treats peer source as context. Generated outputs remain material unless the receiving review policy permits a derivation summary and an independent identified-input build reproduces the exact bytes; authored content remains material and reproducibility does not grant semantic or runtime approval. Prior evidence is preserved. The guidance change adds no execution, disclosure or acceptance authority.
+
+Observed use evidence: one receiving-agent trial produced all five expected synthetic scope and derivation decisions, including the historical-only exception. Its native terminal qualification remained unavailable; these observed documentation judgments do not certify host integration, runtime acceptance or all-vendor applicability. Independent release review remains separate.

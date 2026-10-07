@@ -4,7 +4,7 @@ A reusable workflow for fair technical comparisons and practical exchanges: what
 
 Compare tools, skills, plugins, Model Context Protocol (MCP) interfaces, workflows, or entire AI harnesses. A harness is the orchestration/runtime around a model or tool. The receiver should understand the exchange without the sender's infrastructure, code, terminology or accounts.
 
-**Public edition: 1.1.5.** Documentation only: no executable scripts, installer, telemetry, dependencies or credentials. Suitable for capable assistants and human teams across vendors and operating systems. Native skill discovery depends on the host; this package does not claim every vendor integration was tested.
+**Public edition: 1.1.6.** Documentation only: no executable scripts, installer, telemetry, dependencies or credentials. Suitable for capable assistants and human teams across vendors and operating systems. Native skill discovery depends on the host; this package does not claim every vendor integration was tested.
 
 ## Use with any assistant
 

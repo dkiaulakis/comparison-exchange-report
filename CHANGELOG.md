@@ -2,6 +2,10 @@
 
 Detailed revision evidence and limits: [improvement loop](references/improvement-loop.md).
 
+## 1.1.6 — 2026-10-08
+
+Require current-claim/source reconciliation and preserve actual contribution ownership. Generated outputs stay in scope unless permitted independent exact reproduction supports a derivation summary; authored content and semantic/runtime acceptance remain separate. See [the detailed improvement record](references/improvement-loop.md).
+
 ## 1.1.5 — 2026-10-07
 
 - Keep subject-specific current adoptions and method plans relevant; use verified companion links for other subjects and explain direct-effect exceptions. See [improvement loop](references/improvement-loop.md).
