@@ -47,3 +47,8 @@ A receiving report card offered “Those,” an unassigned role and a sender-onl
 ## 1.1.4 — 2026-10-07: current behavior before future adapters
 
 Independent semantic review warned that proposed capture and brand-dimension recipes omitted the producer/evaluator needed for their outputs. Controlled source checks showed a conservative metadata label across access classifications, and both formal and informal drafts could pass hygiene while configured semantic dimensions remained unassessed. The report correction put current inputs/outputs first and separated future capture completeness/provenance and evaluator baseline/calibration/abstention prerequisites; the scoped re-review allowed those two corrections. This lesson now guides reconstruction offers. Preserve the earlier warning and correction evidence; source-bound semantic review and local controls do not establish blind recipient execution, final adoption acceptance or all-vendor qualification.
+
+
+## 1.1.5 — 2026-10-07: subject-specific adoption plans
+
+A subject-focused exchange reused its companion's broad method plan, mixing unrelated methods into current scope despite a narrower request. The correction keeps current adoptions and future plans relevant to each named subject, references other subjects through verified companion links, and permits a shared method when its direct effect is explained. Historical records and unfinished owned work remain visible. Author usage checks and their limits are recorded separately; this guidance alone proves neither report delivery, blind recipient comprehension nor all-vendor execution.

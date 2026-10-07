@@ -2,6 +2,10 @@
 
 Detailed revision evidence and limits: [improvement loop](references/improvement-loop.md).
 
+## 1.1.5 — 2026-10-07
+
+- Keep subject-specific current adoptions and method plans relevant; use verified companion links for other subjects and explain direct-effect exceptions. See [improvement loop](references/improvement-loop.md).
+
 ## 1.1.4 — 2026-10-07
 
 Explain current interfaces and observed inputs/outputs before future capture or evaluator recipes; distinguish evidence metadata from the missing capture/judgment mechanism. See the detailed revision record.

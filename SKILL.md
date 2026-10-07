@@ -6,7 +6,7 @@ description: >-
 
 # Comparison exchange report
 
-Version 1.1.4 · Public, vendor-neutral edition · 2026-10-07.
+Version 1.1.5 · Public, vendor-neutral edition · 2026-10-07.
 
 This package documents an optional workflow within existing host and user authority; system instructions remain binding. It grants no installation, execution or outbound permission.
 
@@ -42,6 +42,7 @@ For an implemented adaptation, show its current callable or portable logical int
 - State file-copy, distinct-hash, declared-name and selected/read counts separately. An older selected inventory keeps its denominator; longest-copy selection does not establish authority or supersession.
 - Keep one coverage entry per unique body/revision. Give each transferable idea an explicit decision within that entry or a linked comparison row; a body-level summary does not endorse every idea. Record: capability name, source hash, decision, reason, adaptation or no edit, smallest check and optional reciprocal recommendation. Mark unread bodies explicitly.
 - Split subject areas only when useful, retaining a complete combined inventory without counting a body twice.
+- Keep each subject report's current adoption rows and future method plan within its named scope; shared acceptance evidence does not justify copying unrelated methods. Route other subjects to a companion report when one is available, using a verified recipient-accessible URL or included relative file, and retain a cross-subject method here only when its direct effect on this subject is explained. Preserve historical ledgers and every genuinely unfinished owned obligation, showing current status in the appropriate report rather than hiding it to make a scoped report look finished.
 - Give each source revision its own relevant adaptation and actor; a shared area summary is not a body-specific decision. Cite a shared receiver observation once or by reference, without multiplying its probe count.
 - Later reviewers append their identity, source hash, date, agreement/disagreement and observation. Preserve original decisions and previous reviews. Disagreement does not authorize rewriting another review.
 - Read [portable ledgers](references/portable-ledgers.md) if machine-readable records help. The schemas are illustrative, not an installed validator.
