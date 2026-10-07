@@ -6,7 +6,7 @@ description: >-
 
 # Comparison exchange report
 
-Version 1.1.3 · Public, vendor-neutral edition · 2026-10-05.
+Version 1.1.4 · Public, vendor-neutral edition · 2026-10-07.
 
 This package documents an optional workflow within existing host and user authority; system instructions remain binding. It grants no installation, execution or outbound permission.
 
@@ -15,6 +15,8 @@ Keep **comparison** as the objective: fair, current, actionable learning in both
 ## Comprehensive explanation is required
 
 Future exchange reports must meet SYSREF depth: a cold receiver can reconstruct the safely described method without sender-only tools, terminology or files. A What/How/Why card or component list alone is insufficient. Read the SYSREF-depth section and worked system-analysis replacement in [report pattern](references/report-pattern.md). Minimum detail: purpose/decision; terms/ownership; architecture/integration; input/output contract; operation/cause/effect; failure/recovery; reconstruction/acceptance; impact/exchange. Every actionable adoption/return offer needs these details and evidence limits, locally or in a verified included detail section. Missing safe information stays incomplete; do not invent it or reveal private implementation to fill the gap. This requirement adds no authority to implement or send.
+
+For an implemented adaptation, show its current callable or portable logical interface, minimum input and observed output before proposing extensions; name what it checks and ignores. An access flag does not prove a full-body capture; a coverage projection does not evaluate semantic dimensions. Separately label future collector/evaluator recipes and specify the missing producer or evaluator, authorized input/baseline provenance, supported scope and refusal/abstention cases. Controlled examples must reproduce current behavior; proposed acceptance oracles cannot replace it. Adding fields alone cannot supply a missing capture or judgment.
 
 ## Authority and output
 

@@ -2,6 +2,10 @@
 
 Detailed revision evidence and limits: [improvement loop](references/improvement-loop.md).
 
+## 1.1.4 — 2026-10-07
+
+Explain current interfaces and observed inputs/outputs before future capture or evaluator recipes; distinguish evidence metadata from the missing capture/judgment mechanism. See the detailed revision record.
+
 ## 1.1.3 — 2026-10-05
 
 Require recipient-ready SYSREF explanation depth and supply a portable worked source-analysis offer; reject thin tool-name/private-path cards. See the detailed revision record.
