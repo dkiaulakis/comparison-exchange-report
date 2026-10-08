@@ -6,7 +6,7 @@ description: >-
 
 # Comparison exchange report
 
-Version 1.1.6 · Public, vendor-neutral edition · 2026-10-08.
+Version 1.1.7 · Public, vendor-neutral edition · 2026-10-08.
 
 This package documents an optional workflow within existing host and user authority; system instructions remain binding. It grants no installation, execution or outbound permission.
 
@@ -37,6 +37,8 @@ For an implemented adaptation, show its current callable or portable logical int
 6. **Separate private evidence from the shareable artifact.** A preserved private audit is not its receiving export: exclude unsafe mapping/rationale fields rather than copying a private ledger wholesale. Label the export’s coverage and omissions.  Read [Confidentiality and receiving comprehension](references/confidentiality-receiver.md): inspect the whole artifact against its receiving release checks; step 7 separately measures the ten comprehension checks. Keep private receipts outside the shareable package; generalize with synthetic examples and logical roles. Apply applicable disclosure tooling plus semantic review to the **whole artifact**, including comments, scripts, SVG, embedded data and downloads. Redactor approval alone is not business-confidentiality clearance. A safe draft does not authorize sending it.
 7. **Prove receiving comprehension honestly.** Run the ten checks in that reference, preferably with a blind receiver who has only the shareable package and can reconstruct/explain the mechanism and execute a synthetic example offline. Record observed results and limits; 10/10 requires ten actual evidence-backed passes, not author confidence. Unknown or partial checks prevent 10/10. Never fabricate tests, savings, performance, artistry or recipient execution.
 8. **Close the bounded exchange.** Attach exact, scoped evidence beside completion claims; distinguish a finished file, published surface and sent message.  Deliver the matrix and receiver explanation through authorized channels, with implemented versus proposed work, remaining unknowns, declined duplication, reciprocal offer and actual comprehension results. Keep unresolved integration/disclosure/receiver obligations explicit; no automatic publication or production change.
+
+Make preparation status relative to its evidence-capture timestamp (for example, "Prepared for review at ..."), so later authorized publication does not falsify the frozen explanation. Keep earlier draft/UNPUBLISHED labels verbatim in dated HISTORY; do not restate them as current after verified publication. Publication and recipient delivery are separate facts established by receipts bound to the exact frozen version/content and surface; do not require a further source edit merely to self-certify those receipts. Keep actual unfinished adoption and missing delivery evidence explicit; a published report is not evidence that adoption is complete or that a message was sent.
 
 ## Multiple bodies and later reviewers
 

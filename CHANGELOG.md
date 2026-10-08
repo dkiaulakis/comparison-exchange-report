@@ -2,6 +2,10 @@
 
 Detailed revision evidence and limits: [improvement loop](references/improvement-loop.md).
 
+## 1.1.7 — 2026-10-08
+
+Date preparation labels at evidence capture; preserve old draft labels in HISTORY. Bind later publication and recipient delivery to exact-content receipts without another self-certifying edit, while keeping unfinished adoption and sending authority separate. See [the detailed improvement record](references/improvement-loop.md).
+
 ## 1.1.6 — 2026-10-08
 
 Require current-claim/source reconciliation and preserve actual contribution ownership. Generated outputs stay in scope unless permitted independent exact reproduction supports a derivation summary; authored content and semantic/runtime acceptance remain separate. See [the detailed improvement record](references/improvement-loop.md).
