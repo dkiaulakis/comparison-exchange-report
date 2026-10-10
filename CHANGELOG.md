@@ -2,6 +2,10 @@
 
 Detailed revision evidence and limits: [improvement loop](references/improvement-loop.md).
 
+## 1.1.8 — 2026-10-10
+
+Specify receiver-controlled evidence producers, input/revision binding, coherent schemas and failure/unknown decision order. Separate proposed adapters and acceptance cases from implemented behavior; caller flags cannot certify their own observations. See [the detailed improvement record](references/improvement-loop.md#118--2026-10-10-evidence-dependent-recipes).
+
 ## 1.1.7 — 2026-10-08
 
 Date preparation labels at evidence capture; preserve old draft labels in HISTORY. Bind later publication and recipient delivery to exact-content receipts without another self-certifying edit, while keeping unfinished adoption and sending authority separate. See [the detailed improvement record](references/improvement-loop.md).

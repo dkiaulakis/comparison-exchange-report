@@ -55,6 +55,14 @@ Include the following portable information, using logical names rather than priv
 
 The receiving reader should understand the mechanism without clicking a sender-only path. Optional public references may support explanation but cannot replace the schema or worked example. Avoid requiring a branded title, internal command, dashboard, sender infrastructure or proprietary code dump.
 
+## Evidence-dependent recipes
+
+When an offered method needs measurements, extracted rules or other qualified evidence, name the producing dependency, who selects it under receiver authority, how its output binds to the chosen input bytes or revision, and what remains unknown when that route is unavailable. Caller metadata, a checksum or a `measured`/`validated` flag is data, not its own authority. Explain which observations the receiver must obtain independently; do not require the sender's private tool.
+
+Keep one coherent input/output schema: exact required keys, types, result meanings and invalid-input behavior. When failure and unknown evidence coexist, explain the scoped decision order and retain all known causes. Do not turn unknown into success, or invent a universal precedence for every method. If the interface is an illustrative adapter, label it and its acceptance cases as proposed and unexecuted; describe the narrower implemented behavior separately.
+
+For example, a proposed asset check needs receiver-selected byte-bound observations; caller-only `measured: true` cannot qualify them. A source-supported instruction assembler does not become a general text-conflict checker by adding a donor rule declaration. A separate proposed check may use receiver-controlled reviewed rules, with unknown rules remaining unknown. These are declared counterexamples, not executed products. A self-contained formatter needs its real input/output and refusal cases, not a new producer service.
+
 ## Historical reviews and safe projections
 
 Preserve original records privately. Explain reviewer labels as sender-side rereading passes rather than recipient acceptance. “Agree” affirms a historical decision; “disagree” contests it and does not authorize installation. Show contested direct-reuse/adaptation choices alongside the original suggestion. Counts by overlapping reviewer slots are not disjoint populations; state overlap and denominator.
