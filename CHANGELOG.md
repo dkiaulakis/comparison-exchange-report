@@ -2,6 +2,10 @@
 
 Detailed revision evidence and limits: [improvement loop](references/improvement-loop.md).
 
+## 1.1.9 — 2026-10-11
+
+Distinguish parsing from selected-handler acceptance, propagate required-stage failures through formatting, and pin unresolved acceptance context before dependent publication. Synthetic cases preserve source, installed/runtime and independent-quality limits; see [the improvement record](references/improvement-loop.md#119--2026-10-11-staged-acceptance-and-failure-propagation).
+
 ## 1.1.8 — 2026-10-10
 
 Specify receiver-controlled evidence producers, input/revision binding, coherent schemas and failure/unknown decision order. Separate proposed adapters and acceptance cases from implemented behavior; caller flags cannot certify their own observations. See [the detailed improvement record](references/improvement-loop.md#118--2026-10-10-evidence-dependent-recipes).

@@ -12,6 +12,12 @@ Any vendor can refine the skill. Sharing refinements upstream is a community pra
 6. Use an independent blind receiver recheck when the change affects interpretation/adoption. Give only the safe package, realistic request and minimum synthetic artifacts; no intended answer or diagnosis. Preserve reconstruction/execution and failed/unknown checks. Parent or independent reviewers may separately qualify native discovery/runtime integration.
 7. Return the refinement and its evidence to the comparison/handoff. Separate authored, validated, committed/pushed, landed, installed, enabled, executed and independently understood states. No automatic global installation, production mutation, publication or send follows from feedback.
 
+## 1.1.9 — 2026-10-11: staged acceptance and failure propagation
+
+Observed workflow failures exposed three distinct boundaries: a parser accepted input that selected a nonqualifying handler; a successful formatter hid a failed approval assertion; and completed reviews did not satisfy a separate release-acceptance prerequisite. The correction adds a portable staged-acceptance example, pinned context and explicit required-case coverage without changing host authority or existing SYSREF requirements. Source, installed/runtime, output-quality and independent-understanding evidence remain separate.
+
+Qualification: complete-package structural checks passed after the initial partial copies were rejected for a missing local reference. An independent package-only receiving trial read all nine public files and interpreted all eleven supplied synthetic observations without a blocking finding. These are documentation-policy judgments, not eleven executed software tests or an independently authored oracle. No control/failure/repair code ran; the corresponding comprehension execution checks remain unknown. Actual backend identity was not established. Local installation/discovery, runtime behavior, output quality and release evidence remain separate. Original failed and incomplete records are retained.
+
 ## Revision record
 
 This is the detailed revision history; CHANGELOG.md is the release-level summary.
