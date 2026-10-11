@@ -6,7 +6,7 @@ description: >-
 
 # Comparison exchange report
 
-Version 1.1.9 · Public, vendor-neutral edition · 2026-10-11.
+Version 1.1.10 · Public, vendor-neutral edition · 2026-10-11.
 
 This package documents an optional workflow within existing host and user authority; system instructions remain binding. It grants no installation, execution or outbound permission.
 
@@ -20,7 +20,7 @@ For an implemented adaptation, show its current callable or portable logical int
 
 For evidence-dependent recipes, read [Evidence-dependent recipes](references/report-pattern.md#evidence-dependent-recipes): name the receiver-controlled producer and its input binding, keep one coherent schema, and explain failure versus unknown decisions without promoting caller metadata into authority. This applies to the offered method; a pure computation needs no invented evidence service.
 
-For staged review or publication, use [staged acceptance](references/report-pattern.md#staged-acceptance-and-publication): verify the selected handler, retain each required stage result and unresolved finding, and hold dependent publication when acceptance is failed or incomplete. This adds no publication authority.
+For staged review or publication, use [staged acceptance](references/report-pattern.md#staged-acceptance-and-publication): verify the selected handler, retain each required stage result and unresolved finding, and hold dependent publication when acceptance is failed or incomplete. This adds no publication authority. Bind each prerequisite to its current governing contract, protected purpose and applicable phase; use the phase-bound example in that section instead of inventing an extra deadline or bookkeeping gate.
 
 ## Authority and output
 

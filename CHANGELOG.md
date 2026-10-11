@@ -2,6 +2,10 @@
 
 Detailed revision evidence and limits: [improvement loop](references/improvement-loop.md).
 
+## 1.1.10 — 2026-10-11
+
+Bind acceptance conditions to the current contract, protected purpose and applicable phase. Separate original review deadlines from evidence age and later use; preserve genuine protections and unknown runtime states. See the synthetic example in `references/report-pattern.md`.
+
 ## 1.1.9 — 2026-10-11
 
 Distinguish parsing from selected-handler acceptance, propagate required-stage failures through formatting, and pin unresolved acceptance context before dependent publication. Synthetic cases preserve source, installed/runtime and independent-quality limits; see [the improvement record](references/improvement-loop.md#119--2026-10-11-staged-acceptance-and-failure-propagation).
