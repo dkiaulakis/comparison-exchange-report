@@ -6,7 +6,7 @@ description: >-
 
 # Comparison exchange report
 
-Version 1.1.10 · Public, vendor-neutral edition · 2026-10-11.
+Version 1.1.11 · Public, vendor-neutral edition · 2026-10-13.
 
 This package documents an optional workflow within existing host and user authority; system instructions remain binding. It grants no installation, execution or outbound permission.
 

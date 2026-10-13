@@ -2,6 +2,10 @@
 
 Detailed revision evidence and limits: [improvement loop](references/improvement-loop.md).
 
+## 1.1.11 — 2026-10-13
+
+Clarify coupled commit outputs versus read-only inputs, coherent current review artifacts and parent-visible receipt handoffs. Preserve earlier findings and authority limits; see [the detailed preparation record](references/improvement-loop.md#1111--2026-10-13-coupled-outputs-current-composition-and-review-handoffs).
+
 ## 1.1.10 — 2026-10-11
 
 Bind acceptance conditions to the current contract, protected purpose and applicable phase. Separate original review deadlines from evidence age and later use; preserve genuine protections and unknown runtime states. See the synthetic example in `references/report-pattern.md`.
