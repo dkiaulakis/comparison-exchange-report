@@ -2,6 +2,10 @@
 
 Detailed revision evidence and limits: [improvement loop](references/improvement-loop.md).
 
+## 1.1.13 — 2026-10-18
+
+Route unavailable-reviewer cases through the receiver's current review procedure, permitting qualified non-author reassessment only where that procedure allows it. Preserve original findings, complete evidence, review depth and separate runtime criteria. See the detailed improvement note; this clarification grants no waiver or publication authority.
+
 ## 1.1.12 — 2026-10-18
 
 Preserve selected adoption outcomes across restarts, link necessary supporting work to remaining observable proof, and keep corpus counts, outcome completion and prerequisite progress separate. Retain reuse, unknown selection, compare-only and no-send boundaries without introducing a tracker. See the portable continuation record and detailed improvement note.

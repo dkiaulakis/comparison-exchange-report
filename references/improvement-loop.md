@@ -12,6 +12,12 @@ Any vendor can refine the skill. Sharing refinements upstream is a community pra
 6. Use an independent blind receiver recheck when the change affects interpretation/adoption. Give only the safe package, realistic request and minimum synthetic artifacts; no intended answer or diagnosis. Preserve reconstruction/execution and failed/unknown checks. Parent or independent reviewers may separately qualify native discovery/runtime integration.
 7. Return the refinement and its evidence to the comparison/handoff. Separate authored, validated, committed/pushed, landed, installed, enabled, executed and independently understood states. No automatic global installation, production mutation, publication or send follows from feedback.
 
+## 1.1.13 — 2026-10-18: consult the receiver's reviewer-reassignment procedure
+
+An adoption investigation proposed an extra original-vendor conversation and receipt mechanism before finding that the receiver already permits qualified non-author reassessment when the original reviewer is unreachable. The procedure now explicitly directs the adopter to the receiver's current review rules before inventing that dependency. It preserves the original finding, exact source/evidence and required review depth; neither unavailability nor reassignment is acceptance, and a scoped rebuttal cannot certify runtime adoption.
+
+In the originating procedure, a fresh assessor already interpreted eight baseline cases correctly when synthetic host policies were explicit. Two candidate rounds then recorded sixteen interpretations covering unknown permission, insufficient review depth, genuine security/runtime failures, uncertain historical display, explicit no-reassignment/no-send and unrelated requests. This is a routing clarification, not a reproduced software failure. The candidate rounds used a continuing assessor and disclosed partial reference reading; actual backend identity, product execution and recipient adoption were not measured. Those trials qualify their originating guidance scope; public-package review remains separate.
+
 ## 1.1.12 — 2026-10-18: resume selected outcomes
 
 A long adoption accumulated source-reviewed supporting repairs while original runtime outcomes remained unfinished. A bounded independent interpretation of the originating procedure correctly refused to infer completion, but found no explicit recovery of the selected-outcome denominator or outcome-to-prerequisite-to-remaining-proof relationship. This was a guidance gap, not a failing software test.
