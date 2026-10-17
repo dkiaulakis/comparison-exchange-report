@@ -2,6 +2,10 @@
 
 Detailed revision evidence and limits: [improvement loop](references/improvement-loop.md).
 
+## 1.1.12 — 2026-10-18
+
+Preserve selected adoption outcomes across restarts, link necessary supporting work to remaining observable proof, and keep corpus counts, outcome completion and prerequisite progress separate. Retain reuse, unknown selection, compare-only and no-send boundaries without introducing a tracker. See the portable continuation record and detailed improvement note.
+
 ## 1.1.11 — 2026-10-13
 
 Clarify coupled commit outputs versus read-only inputs, coherent current review artifacts and parent-visible receipt handoffs. Preserve earlier findings and authority limits; see [the detailed preparation record](references/improvement-loop.md#1111--2026-10-13-coupled-outputs-current-composition-and-review-handoffs).

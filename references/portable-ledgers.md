@@ -39,6 +39,19 @@ Corpus coverage counts each unique body/revision once. A decision record below a
 
 Decision: `reuse`, `adapt`, `decline`, `defer`. `source_state`, `adoption_status` and `reciprocal.status` use exactly the nine evidence labels in [report-pattern.md](report-pattern.md): `supplied-claim`, `absent-in-material`, `verified-current-capability`, `implemented/source-only`, `installed`, `enabled`, `executed-output-quality`, `proposal`, `unknown`. The slash in `implemented/source-only` is part of one label. Use separate observations for coexisting states. Decision, evidence-state, reciprocal-kind and verdict fields are closed vocabularies; descriptive fields are free text and references must resolve. Selecting an idea is not installation. Unknown hashes stay null with a reason; compute actual complete-file hashes rather than copying placeholders. Reciprocal kind: `recommendation`, `documented-capability`, `none`. A recommendation remains a proposal. If a reverse cell says `none`, explain why; this does not invalidate a useful take-only decision.
 
+## Adoption continuation
+
+For a resumed implementation, retain one compact row per originally selected outcome. This is a continuation view of the existing decisions, not another task system or a requirement to implement every supplied idea. Recover the original selection from its records; distinguish the supplied corpus, selected outcomes and supporting work. Do not invent a denominator when selection records are unavailable.
+
+| Outcome / source idea | Original acceptance and owner | Current observation / stage | Necessary prerequisite and why it blocks | Next authorized action / remaining proof |
+| --- | --- | --- | --- | --- |
+| Synthetic O1 / stable-retry-identity | Same authorized request has one effect; changed payload refuses; receiver integration owner | Guard committed; ordinary caller still uses old version | Normal release must load the changed guard; current caller probe identifies the old revision | Use the existing release path, then observe repeat and conflict through the caller |
+| Synthetic O2 / input validation | Blank input refuses through the public function; library owner | Already-present behavior verified with the scoped positive/refusal results | None; this pure computation needs no service | Reuse the existing implementation; do not invent a deployment prerequisite |
+
+An infrastructure repair may be necessary and complete within its own scope while O1 remains unfinished. Reference one shared prerequisite from several affected outcomes without multiplying the adopted-outcome count or test counts. A blocker names its actual governing phase, owner, observation and clearing evidence; retain unavailable evidence as unknown. On each resume, remeasure changed source/runtime and authority, reuse still-valid scoped receipts and preserve failures rather than restarting finished work. Report selected outcomes satisfied over the recovered selected denominator separately from prerequisite progress; reuse may satisfy an outcome without new code when its criteria are proved.
+
+This record adds no permission: compare-only work records proposals without implementing them, and a no-send request keeps reports and reciprocal recommendations local. Public exports use safe logical roles and descriptions, not this host's private task identifiers, paths or raw receipts.
+
 ## Later review
 
 ```json

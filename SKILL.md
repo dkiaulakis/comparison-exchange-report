@@ -6,7 +6,7 @@ description: >-
 
 # Comparison exchange report
 
-Version 1.1.11 · Public, vendor-neutral edition · 2026-10-13.
+Version 1.1.12 · Public, vendor-neutral edition · 2026-10-18.
 
 This package documents an optional workflow within existing host and user authority; system instructions remain binding. It grants no installation, execution or outbound permission.
 
@@ -43,6 +43,10 @@ For staged review or publication, use [staged acceptance](references/report-patt
 8. **Close the bounded exchange.** Attach exact, scoped evidence beside completion claims; distinguish a finished file, published surface and sent message.  Deliver the matrix and receiver explanation through authorized channels, with implemented versus proposed work, remaining unknowns, declined duplication, reciprocal offer and actual comprehension results. Keep unresolved integration/disclosure/receiver obligations explicit; no automatic publication or production change.
 
 Make preparation status relative to its evidence-capture timestamp (for example, "Prepared for review at ..."), so later authorized publication does not falsify the frozen explanation. Keep earlier draft/UNPUBLISHED labels verbatim in dated HISTORY; do not restate them as current after verified publication. Publication and recipient delivery are separate facts established by receipts bound to the exact frozen version/content and surface; do not require a further source edit merely to self-certify those receipts. Keep actual unfinished adoption and missing delivery evidence explicit; a published report is not evidence that adoption is complete or that a message was sent.
+
+## Resume adoption without losing the outcome
+
+Before adding work to a resumed adoption, recover the original selected outcomes, source/idea references, acceptance criteria and owners. Keep their denominator separate from corpus coverage and supporting repairs. Link each necessary prerequisite to the outcome it enables, the current blocking observation and the next proof needed; close the outcome against its own criteria, never by counting completed prerequisites. If the original selection is unavailable, keep the denominator unknown rather than inventing it. Use the compact [adoption continuation record](references/portable-ledgers.md#adoption-continuation) or the host's equivalent; no new tracker is required. Choose the next useful authorized action on that path and avoid unrelated infrastructure expansion. Preserve explicit compare-only and no-send limits across resumes; neither an exchange nor a reciprocal proposal authorizes contacting anyone.
 
 ## Multiple bodies and later reviewers
 

@@ -12,6 +12,12 @@ Any vendor can refine the skill. Sharing refinements upstream is a community pra
 6. Use an independent blind receiver recheck when the change affects interpretation/adoption. Give only the safe package, realistic request and minimum synthetic artifacts; no intended answer or diagnosis. Preserve reconstruction/execution and failed/unknown checks. Parent or independent reviewers may separately qualify native discovery/runtime integration.
 7. Return the refinement and its evidence to the comparison/handoff. Separate authored, validated, committed/pushed, landed, installed, enabled, executed and independently understood states. No automatic global installation, production mutation, publication or send follows from feedback.
 
+## 1.1.12 — 2026-10-18: resume selected outcomes
+
+A long adoption accumulated source-reviewed supporting repairs while original runtime outcomes remained unfinished. A bounded independent interpretation of the originating procedure correctly refused to infer completion, but found no explicit recovery of the selected-outcome denominator or outcome-to-prerequisite-to-remaining-proof relationship. This was a guidance gap, not a failing software test.
+
+The continuation record now preserves that relationship without adding a tracker. Two successive synthetic interpretation cases in the originating host separated satisfied reuse from unactivated source, shared prerequisites, missing criteria and changed authorized selection; compare-only and no-send limits remained explicit. These were documentation judgments by one continuing independent assessor, not product execution or blind recipient acceptance. Public-package qualification remains separate; no private implementation or audit records are included here.
+
 ## 1.1.9 — 2026-10-11: staged acceptance and failure propagation
 
 Observed workflow failures exposed three distinct boundaries: a parser accepted input that selected a nonqualifying handler; a successful formatter hid a failed approval assertion; and completed reviews did not satisfy a separate release-acceptance prerequisite. The correction adds a portable staged-acceptance example, pinned context and explicit required-case coverage without changing host authority or existing SYSREF requirements. Source, installed/runtime, output-quality and independent-understanding evidence remain separate.
