@@ -6,7 +6,7 @@ description: >-
 
 # Comparison exchange report
 
-Version 1.1.14 · Public, vendor-neutral edition · 2026-10-18.
+Version 1.1.15 · Public, vendor-neutral edition · 2026-10-18.
 
 This package documents an optional workflow within existing host and user authority; system instructions remain binding. It grants no installation, execution or outbound permission.
 
@@ -34,7 +34,7 @@ When a disputed review finding holds an adoption, consult the receiver's current
 ## Compare, optionally improve, return
 
 1. **Inventory all supplied material.** Count and name files/messages/attachments, revisions and relevant embedded assets; mark unreadable, truncated, inaccessible and duplicate items. Finish the available corpus or state exactly what was not read. Record assertions with their source and date. Missing from supplied material means **absent-in-material**, never absent from the donor's private system.
-2. **Probe the current receiver.** Recheck historical assertions against current source/runtime where authorized. Keep supplied claim, verified current capability, implemented/source-only, installed, enabled, executed output quality and proposal distinct; evidence for one is not evidence for the others. Unknown stays unknown. Donor runtime claims need donor evidence, not assumptions from its documents.
+2. **Probe the current receiver.** Recheck historical assertions against current source/runtime where authorized. Before collecting routine diagnostics, apply the producer-side minimization in [Confidentiality and receiving comprehension](references/confidentiality-receiver.md). Keep supplied claim, verified current capability, implemented/source-only, installed, enabled, executed output quality and proposal distinct; evidence for one is not evidence for the others. Unknown stays unknown. Donor runtime claims need donor evidence, not assumptions from its documents.
    Before qualifying a comparison as current, reconcile every claimed method with the latest source actually reviewed, including later additions and repairs, and identify the running revision when execution is claimed. Earlier reviews cover their stated scope; preserve peer contributions and unfinished obligations under their actual owners. Reading peer source provides context, not authorship or acceptance.
    Keep generated outputs in scope; where the receiving review policy permits a derivation summary, replace their bytes only after an independent build reproduces them exactly from identified source, dependencies and tools. Authored content stays in scope, and reproducibility alone gives no semantic or runtime approval.
 3. **Build the bilateral matrix.** Read [report pattern](references/report-pattern.md) for evidence states and fields. Compare outcomes and constraints, not counts of similarly named components; include advantages/limitations on both sides, viable exceptions, costs/risks and explicit decisions to reuse, adapt, decline or defer. Useful adoption does not require an equal return gift. Offer grounded improvement recommendations where available; these remain proposals until separately delivered and accepted. Do not invent reciprocal superiority.
