@@ -2,6 +2,10 @@
 
 Detailed revision evidence and limits: [improvement loop](references/improvement-loop.md).
 
+## 1.1.14 — 2026-10-18
+
+Establish fixture validity before changing an adopted guard: retain a valid ordinary-path baseline, an otherwise equivalent invalid control, and the distinction between rejected input and unavailable evidence. Keep pure computations free of invented identity prerequisites. See the detailed improvement note; documentation trials do not certify product behavior.
+
 ## 1.1.13 — 2026-10-18
 
 Route unavailable-reviewer cases through the receiver's current review procedure, permitting qualified non-author reassessment only where that procedure allows it. Preserve original findings, complete evidence, review depth and separate runtime criteria. See the detailed improvement note; this clarification grants no waiver or publication authority.

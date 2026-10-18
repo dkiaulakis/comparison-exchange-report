@@ -6,7 +6,7 @@ description: >-
 
 # Comparison exchange report
 
-Version 1.1.13 · Public, vendor-neutral edition · 2026-10-18.
+Version 1.1.14 · Public, vendor-neutral edition · 2026-10-18.
 
 This package documents an optional workflow within existing host and user authority; system instructions remain binding. It grants no installation, execution or outbound permission.
 
@@ -45,6 +45,10 @@ When a disputed review finding holds an adoption, consult the receiver's current
 8. **Close the bounded exchange.** Attach exact, scoped evidence beside completion claims; distinguish a finished file, published surface and sent message.  Deliver the matrix and receiver explanation through authorized channels, with implemented versus proposed work, remaining unknowns, declined duplication, reciprocal offer and actual comprehension results. Keep unresolved integration/disclosure/receiver obligations explicit; no automatic publication or production change.
 
 Make preparation status relative to its evidence-capture timestamp (for example, "Prepared for review at ..."), so later authorized publication does not falsify the frozen explanation. Keep earlier draft/UNPUBLISHED labels verbatim in dated HISTORY; do not restate them as current after verified publication. Publication and recipient delivery are separate facts established by receipts bound to the exact frozen version/content and surface; do not require a further source edit merely to self-certify those receipts. Keep actual unfinished adoption and missing delivery evidence explicit; a published report is not evidence that adoption is complete or that a message was sent.
+
+## Verify the fixture before changing a guard
+
+When adopting or repairing a guard, first establish that the baseline fixture passes the receiver's ordinary parsing, identity and authorization checks that apply to it. Use an otherwise equivalent invalid control and keep rejected input distinct from unavailable evidence; a stub returning no data proves neither fixture validity nor authority to relax a guard. A pure computation with no identity or authorization boundary needs no invented admission step.
 
 ## Resume adoption without losing the outcome
 
