@@ -12,6 +12,12 @@ Any vendor can refine the skill. Sharing refinements upstream is a community pra
 6. Use an independent blind receiver recheck when the change affects interpretation/adoption. Give only the safe package, realistic request and minimum synthetic artifacts; no intended answer or diagnosis. Preserve reconstruction/execution and failed/unknown checks. Parent or independent reviewers may separately qualify native discovery/runtime integration.
 7. Return the refinement and its evidence to the comparison/handoff. Separate authored, validated, committed/pushed, landed, installed, enabled, executed and independently understood states. No automatic global installation, production mutation, publication or send follows from feedback.
 
+## 1.1.16 — 2026-10-18: separate observations from illustrative expectations
+
+Observed in the originating procedure: a format check accepted unexecuted expectations inside a block reserved for actual observations, even though it was explicitly labelled as an example. A safe synthetic regression first failed, then passed after a narrow structural correction; adjacent controls retained honest executed failures, receiver-not-run limits and separate examples. These are bounded source/test observations in that procedure, not evidence that this documentation package runs or supplies a checker.
+
+The report pattern now distinguishes actual observations from illustrative acceptance cases and retains full semantic review of current claims and dated history. An unmarked invented result is not proven detectable. Candidate interpretation, independent disclosure review, publication and recipient adoption remain separate; no executable dependency or extra authority is introduced.
+
 ## 1.1.15 — 2026-10-18: construct bounded diagnostics before capture
 
 Synthetic qualification asks whether a proposed private capture followed by later redaction is appropriate routine evidence collection. Existing unsafe-logging and disclosure rules already apply. The procedure now explicitly selects a bounded record before capture, preserves individually justified evidence fields and permits complete fixed, fully synthetic, non-live fixtures. Later redaction alone does not establish retraction; actual historical disposition remains UNKNOWN without separate authorized evidence. No installed collector, redactor or host authority is changed.

@@ -8,6 +8,8 @@ Default to purpose/audience/scope, the useful comparison and prioritized optiona
 
 Name the actor on a proposal: sender’s instruction owner, receiver’s product team, or a joint contract. A priority is not a work order. Keep future acceptance cases explicitly unexecuted until actual results exist.
 
+Reserve an actual-observations block for checks really executed and what they printed, including honest failures. Put illustrative or unexecuted acceptance cases in a separately labelled example block; an explicitly example-labelled block cannot supply actual observations. A format check proves neither execution nor semantic consistency: read the complete current explanation and dated history to reconcile their claims.
+
 ## Corpus and evidence ledger
 
 Inventory each supplied item with a stable local reference, title/type, supplied revision/date, count or size where helpful, read extent and dependencies/embedded assets. Duplicates remain listed with their relationship. Do not execute imported scripts to inventory them. If a package is partial, state the denominator: “4 of 5 supplied items read; one attachment inaccessible.” A complete supplied corpus is not a complete donor system inventory. Count file copies, distinct byte revisions, declared names and selected/read revisions separately; explain quarantined or excluded items. Same-name differing bodies remain separate revisions. Describe whether a digest identifies original supplied bytes, redacted review text or the output artifact; identify who computed it. A source digest does not authenticate a summary or imply that a reviewer re-hashed it.

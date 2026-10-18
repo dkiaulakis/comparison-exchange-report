@@ -2,6 +2,10 @@
 
 Detailed revision evidence and limits: [improvement loop](references/improvement-loop.md).
 
+## 1.1.16 — 2026-10-18
+
+Separate actual observations, including honest failures, from explicitly labelled unexecuted examples. Preserve semantic current-versus-history review and execution-proof limits; no checker or runtime authority is added. See the detailed improvement note.
+
 ## 1.1.15 — 2026-10-18
 
 Select bounded routine diagnostic evidence before capture, preserve UNKNOWN measurements, and retain the fixed synthetic non-live fixture exception. See the detailed improvement note; no collector, redactor or disclosure authority is added.
