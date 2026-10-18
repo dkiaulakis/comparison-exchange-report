@@ -2,6 +2,10 @@
 
 Detailed revision evidence and limits: [improvement loop](references/improvement-loop.md).
 
+## 1.1.15 — 2026-10-18
+
+Select bounded routine diagnostic evidence before capture, preserve UNKNOWN measurements, and retain the fixed synthetic non-live fixture exception. See the detailed improvement note; no collector, redactor or disclosure authority is added.
+
 ## 1.1.14 — 2026-10-18
 
 Establish fixture validity before changing an adopted guard: retain a valid ordinary-path baseline, an otherwise equivalent invalid control, and the distinction between rejected input and unavailable evidence. Keep pure computations free of invented identity prerequisites. See the detailed improvement note; documentation trials do not certify product behavior.
