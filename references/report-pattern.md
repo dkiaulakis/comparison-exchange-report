@@ -4,6 +4,8 @@ Use only the structure the comparison needs; preserve a requested template. This
 
 ## Recipient-first reading order
 
+Start with the decision, consequence and next authorized action. Put a short operating contract next; include linked reconstruction and evidence files after it. The front should let a human or language model choose the next step without processing a transcript, repeated counters or a wall of identifiers. Retain every material objection, read limit and unfinished outcome in the appropriate current view. Collapsing megabytes in HTML is not context reduction for a language model. Use supplied companion files with resolvable relative links; do not silently delete evidence or require private sender access.
+
 Default to purpose/audience/scope, the useful comparison and prioritized optional proposals, mechanisms and acceptance limits, then revision history. A user-provided template may choose another order. This is an editorial default, not authority to bypass host security or publish anything. Keep internal operational dashboards and recipient explanations as different views when their needs differ; do not display empty action scaffolds to a cold recipient.
 
 Name the actor on a proposal: sender’s instruction owner, receiver’s product team, or a joint contract. A priority is not a work order. Keep future acceptance cases explicitly unexecuted until actual results exist.
@@ -29,6 +31,29 @@ For each important assertion use: `assertion; source/revision; asserted_at; chec
 | unknown | Evidence missing, stale, conflicting or unavailable | Failure or absence |
 
 States can coexist: installed but disabled; enabled with an observed failed output; source-only repair with runtime unknown. Use separate source/config/runtime/output observations where that prevents ambiguous labels. Historical evidence retains its date and never silently becomes current. Attribute observations to a safely named environment and assessor. A byte-identity probe is not an exercised provider call, fault injection, usability result or output-quality test. Refer to one shared observation from multiple rows without counting it repeatedly; a capability-category count is an index, not a pass count.
+
+## Evidence and reader checks
+
+Use the receiver's status vocabulary consistently and explain its mapping to the ledger above. For a selected outcome retain a responsible role, source/input version, observed run/date, current state and next acceptance check. Do not require an invented run identifier for an unexecuted proposal. Acceptance is a scoped decision by the responsible party, not a synonym for source inspection, enablement or a green toy test.
+
+Match each claim to evidence capable of supporting it:
+
+| Claim | Evidence needed / limit |
+| --- | --- |
+| Meaning preserved | Inspect obligations, actions, objects, timing, dependencies and end state, including contradictions and unknowns. Exact wording or checksums alone cannot judge these. |
+| Reference applied | Identify actual content/version, permitted role, provenance and applicable rights; trace the effective provider request after adaptation. A matching URL or caller flag is insufficient. |
+| Continuous action works | Inspect the relevant temporal interval at suitable density, escalating to continuous human review when contacts, occlusion or handoffs demand it. Sparse samples cannot certify unsampled motion. |
+| Functional geometry preserved | Inspect the parts and relationships needed for the action, such as handles, hinges, latches and supports. Field presence alone is not functioning geometry. |
+| Brand/audio/export correct | Inspect current product/label, visible type and units, spoken content/timing, and the actual delivered export where relevant. Source prompts do not certify those outputs. |
+| Measured improvement | Use an identified baseline, comparable conditions and repeated observations appropriate to the claim. Report actual effort/cost; do not infer savings or superiority from document length or a single example. |
+
+These are conditional evidence needs, not permission for generation or paid calls. Preserve intended artistic exceptions: a door already open, static composition, silence, stylized physics, a time jump or deliberate axis change can be valid when the intended contract permits them. An unknown observation must not become either an automatic pass or a false rejection.
+
+For a meaningful usability check give a reader the package and a realistic task without the author's desired verdict. Preserve their reconstruction and chosen action. Separate independently running the author's cases from independently deriving an adversarial oracle. Include a broken case, a repair and an allowed exception when testing a claimed control. These checks establish only their stated scope; toy tests do not certify real media, rights, business value or every vendor.
+
+For visual output inspect actual desktop/mobile renders, text contrast, overflow, diagram labels and keyboard navigation. Exercise the route from decision to next action and supporting evidence; do not count screenshots or successful HTTP responses as reader acceptance. Keep mechanical checks and semantic/visual findings separate, including failures.
+
+**Synthetic media example — expected decisions, not executed observations.** A donor reports eight passing toy cases; the receiver has an unactivated source patch. A reference URL matches, but the actual clip has not been inspected. The brief intentionally starts with a door open. Report the toy result as supplied evidence and the patch as source-only. Keep contact/motion, rights and output quality unknown; do not reject the open door merely because a generic example starts closed. A useful next step is an authorized offline adversarial check of intent-aware state handling, with the allowed open-door case retained. A real-media pilot remains proposed until its inputs, access and any budget are separately authorized. This example supplies neither a media measurement nor a universal validator.
 
 ## Staged acceptance and publication
 

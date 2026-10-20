@@ -12,6 +12,14 @@ Any vendor can refine the skill. Sharing refinements upstream is a community pra
 6. Use an independent blind receiver recheck when the change affects interpretation/adoption. Give only the safe package, realistic request and minimum synthetic artifacts; no intended answer or diagnosis. Preserve reconstruction/execution and failed/unknown checks. Parent or independent reviewers may separately qualify native discovery/runtime integration.
 7. Return the refinement and its evidence to the comparison/handoff. Separate authored, validated, committed/pushed, landed, installed, enabled, executed and independently understood states. No automatic global installation, production mutation, publication or send follows from feedback.
 
+## 1.2.0 — 2026-10-20: concise entrypoint, reconstructable detail
+
+Observed reporting feedback called for a useful current decision surface instead of repeated metadata and evidence dumps. The public entrypoint alone was about 3,900 tokens before references. Its full detailed procedure is retained in operating-details.md with corrected relative links; the new entrypoint routes readers to it as needed. Current decisions, unknowns, objections and unfinished product outcomes must remain visible. Included companions reduce unnecessary input; merely collapsing content does not reduce a language model's input.
+
+A continuing documentation assessor tried the preceding public edition on a synthetic comparison: reported toy-validator cases, a receiver source-only patch, an uninspected reference and an intentional open-door start, without paid-pilot authorization. The assessor sealed conclusions before drafting and produced a 566-word recipient explanation. No blocking interpretation error was observed. Reported friction was discovery across several references and no direct media-intent example. This is not a software RED or evidence that the prior guidance failed every reader.
+
+The candidate adds a short media example, claim-specific evidence limits and a decision-first workflow. Candidate usability, source-preservation and disclosure results must be assessed against their exact package; author confidence is not acceptance. Documentation trials do not establish native skill discovery, live media behavior, savings or compatibility across all vendors.
+
 ## 1.1.16 — 2026-10-18: separate observations from illustrative expectations
 
 Observed in the originating procedure: a format check accepted unexecuted expectations inside a block reserved for actual observations, even though it was explicitly labelled as an example. A safe synthetic regression first failed, then passed after a narrow structural correction; adjacent controls retained honest executed failures, receiver-not-run limits and separate examples. These are bounded source/test observations in that procedure, not evidence that this documentation package runs or supplies a checker.

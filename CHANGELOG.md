@@ -2,6 +2,10 @@
 
 Detailed revision evidence and limits: [improvement loop](references/improvement-loop.md).
 
+## 1.2.0 — 2026-10-20
+
+Replace the monolithic entrypoint with a concise decision/action/proof workflow and retain its detailed procedure as a linked reference. Add progressive disclosure for human and language-model readers, scoped media-evidence limits, artistic exceptions and actual usability checks. No runtime, paid-call or disclosure authority is added.
+
 ## 1.1.16 — 2026-10-18
 
 Separate actual observations, including honest failures, from explicitly labelled unexecuted examples. Preserve semantic current-versus-history review and execution-proof limits; no checker or runtime authority is added. See the detailed improvement note.
