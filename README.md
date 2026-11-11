@@ -4,7 +4,7 @@ A reusable workflow for fair technical comparisons and practical exchanges: what
 
 Compare tools, skills, plugins, Model Context Protocol (MCP) interfaces, workflows, or entire AI harnesses. A harness is the orchestration/runtime around a model or tool. The receiver should understand the exchange without the sender's infrastructure, code, terminology or accounts.
 
-**Public edition: 1.2.0.** Documentation only: no executable scripts, installer, telemetry, dependencies or credentials. Suitable for capable assistants and human teams across vendors and operating systems. Native skill discovery depends on the host; this package does not claim every vendor integration was tested.
+**Public edition: 1.3.0.** Documentation only: no executable scripts, installer, telemetry, dependencies or credentials. Suitable for capable assistants and human teams across vendors and operating systems. Native skill discovery depends on the host; this package does not claim every vendor integration was tested.
 
 ## Use with any assistant
 
@@ -38,6 +38,7 @@ Comprehensive SYSREF explanations are required: recipients must be able to recon
 - [README.md](README.md): purpose, usage and package inventory.
 - [SKILL.md](SKILL.md): workflow and authority.
 - [Detailed procedure](references/operating-details.md): retained detailed public workflow, read as needed.
+- [Donor intake](references/donor-intake.md): who may fetch a link, one sanctioned donor copy and its cleanup, feedback on files a person shared.
 - [CHANGELOG.md](CHANGELOG.md): release summaries.
 - [LICENSE](LICENSE): standard MIT grant.
 - [Report pattern](references/report-pattern.md): evidence states and matrix.
@@ -46,7 +47,7 @@ Comprehensive SYSREF explanations are required: recipients must be able to recon
 - [Portable ledgers](references/portable-ledgers.md): optional corpus/decision/review records.
 - [Improvement loop](references/improvement-loop.md): evidence-backed refinement and revision history.
 
-The inventory contains ten authored documentation/license files. The body version identifies the edition without adding host-specific frontmatter fields; pin a Git commit and hash exact downloaded bytes with an available SHA-256 tool when identity matters. Any digest record must name its file, commit, collector and original-byte versus transformed-text scope; this package supplies no universal signature or verification service.
+The inventory contains eleven authored documentation/license files. The body version identifies the edition without adding host-specific frontmatter fields; pin a Git commit and hash exact downloaded bytes with an available SHA-256 tool when identity matters. Any digest record must name its file, commit, collector and original-byte versus transformed-text scope; this package supplies no universal signature or verification service.
 
 The worked example is synthetic and in memory. It provides no production crash durability, concurrency protection or exactly-once guarantee. A receiver may implement the logical interface in an inspected offline temporary workspace. Nothing runs automatically.
 

@@ -2,6 +2,10 @@
 
 Detailed revision evidence and limits: [improvement loop](references/improvement-loop.md).
 
+## 1.3.0 — 2026-11-11
+
+Name who may fetch a link: only a clean address the user pasted in their own message, read-only, that exact address once; an address found in donor material, a fetched page, a quote or an attachment never authorizes a fetch. Give a donor repository one sanctioned copy (fresh empty directory, shallow, credential-free, one revision, read as data) and require its removal when the exchange closes. Add a take-only feedback path for files a person shares (no licence means ideas in your own words, no agreed topic means nothing of yours goes back, screen the draft before any send). Compare practice by practice at the receiver's ordinary entrypoint, and require a decline reason that holds in every context the receiver serves. Documentation only: the new [donor intake](references/donor-intake.md) reference adds no script, installer, fetch tool or authority; see the detailed improvement note.
+
 ## 1.2.0 — 2026-10-20
 
 Replace the monolithic entrypoint with a concise decision/action/proof workflow and retain its detailed procedure as a linked reference. Add progressive disclosure for human and language-model readers, scoped media-evidence limits, artistic exceptions and actual usability checks. No runtime, paid-call or disclosure authority is added.
