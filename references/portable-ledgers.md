@@ -37,6 +37,24 @@ Corpus coverage counts each unique body/revision once. A decision record below a
 }
 ```
 
+A `decline` additionally carries its quality effect, so the reader can see what was given up and on what evidence:
+
+```json
+{
+  "idea_ref": "recall-before-answer",
+  "decision": "defer",
+  "why": "Every injected line repeats on every turn, but the forgone answer quality was never measured.",
+  "quality_effect": {
+    "forgone": "Answers that needed a past fact; the owner re-explaining; the fact re-derived with extra tool calls",
+    "status": "unmeasured",
+    "evidence": "Proposed check: the same 40 real prompts with and without the lookup, answers judged blind"
+  },
+  "decline_ground": null
+}
+```
+
+`quality_effect.status` is `measured-equal`, `measured-worse-if-adopted`, `measured-loss` or `unmeasured`; `decline_ground` is null or one of `safety`, `security`, `legal`, `licence`, `terms`, `privacy`, `money`, `owner-directive`. A `decline` is valid only with `measured-equal` (cost may then break the tie), with `measured-worse-if-adopted` (a decline on quality) or with a `decline_ground`; `unmeasured` means `defer` until the check runs (the report's measure-first), and `measured-loss` means `adapt` or `reuse`. The example above was a decline on cost alone; repaired, it is a `defer` with the check that settles it.
+
 Decision: `reuse`, `adapt`, `decline`, `defer`. `source_state`, `adoption_status` and `reciprocal.status` use exactly the nine evidence labels in [report-pattern.md](report-pattern.md): `supplied-claim`, `absent-in-material`, `verified-current-capability`, `implemented/source-only`, `installed`, `enabled`, `executed-output-quality`, `proposal`, `unknown`. The slash in `implemented/source-only` is part of one label. Use separate observations for coexisting states. Decision, evidence-state, reciprocal-kind and verdict fields are closed vocabularies; descriptive fields are free text and references must resolve. Selecting an idea is not installation. Unknown hashes stay null with a reason; compute actual complete-file hashes rather than copying placeholders. Reciprocal kind: `recommendation`, `documented-capability`, `none`. A recommendation remains a proposal. If a reverse cell says `none`, explain why; this does not invalidate a useful take-only decision.
 
 ## Adoption continuation
@@ -71,6 +89,7 @@ Dates and identities above are synthetic placeholders, not proof. Append only ma
 ## Local checks
 
 - Every available unique body/revision has a decision; unread material is explicit.
+- Every `decline` names its quality effect; an unmeasured one is a `defer` with its settling check, never a decline priced on cost alone.
 - Known hashes match read bytes; reviews refer to inventoried revisions; each non-null review `idea_ref` resolves to a decision for that source and identified historical revision.
 - Evidence states have dated observations of that particular state.
 - Previous records remain intact and disagreements are appended.

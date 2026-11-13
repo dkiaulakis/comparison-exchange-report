@@ -2,6 +2,10 @@
 
 Detailed revision evidence and limits: [improvement loop](references/improvement-loop.md).
 
+## 1.5.0 — 2026-11-13
+
+A decline now weighs what it forgoes, not only what it costs. Every not-taken row records its quality effect (what output quality is lost if the donor is right, including what not having the capability costs) with the measurement behind it, using one of four statuses: measured equal, measured worse if adopted, measured loss, or unmeasured. Cost, tokens, tool calls and latency break a tie only when quality is measured equal; an unmeasured effect makes the row measure first, and a measured loss is adopted or adapted. Safety, security, legal, licence, terms, privacy, money and an explicit owner decision still hold a decline on their own. Reason: in a real exchange two recall rules were declined because every injected line repeats on every turn, while the receiver's own measurement showed the recall tools unused in 333 prompts and 3 of 20 answers given without recall worse. Documentation only; no script, installer or authority is added.
+
 ## 1.4.0 — 2026-11-12
 
 Every recommendation offered back now names where it comes from: own experience (with where it runs and what proved it), the other side's material, or general knowledge said plainly as such, so a reader can tell a proven practice from a suggestion. Before the give-back ships, compare the other side's stated problems with your whole working practice, not only with the comparison rows, and record what was offered, left out and why. Reason: in a real exchange a long list of recommendations was sent without saying which came from the sender's own experience, and no one had checked it against everything the sender actually does well. Documentation only; no script, installer or authority is added.

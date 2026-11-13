@@ -114,6 +114,27 @@ Each decision must fit its particular source revision and receiver gap: explain 
 
 Avoid unilateral sales language. A donor can be clearer but less integrated; a receiver can be operationally proven but harder to adopt. Explain both with evidence. No need to invent reciprocal superiority; “no substantiated improvement to offer yet” is fair when true.
 
+### Not-taken rows weigh their quality effect
+
+A decline is a decision with an effect. Every row that does not take the idea (decline, reject, not taken) records `quality_effect`, and the verdict follows from it:
+
+| Field | Meaning |
+| --- | --- |
+| `quality_effect.forgone` | What output quality the receiver loses if the donor is right, including what NOT having the capability costs: the owner re-explaining, the same fact re-derived with extra tool calls, repeated mistakes, decisions made without the fact. |
+| `quality_effect.status` | `measured-equal` (our output is measured as good without it), `measured-worse-if-adopted` (the donor's approach is measured to make our output worse), `measured-loss` (measured worse without it) or `unmeasured`. |
+| `quality_effect.evidence` | The measurement: input, sample size, result and where it ran. For `unmeasured`, the check that would settle it. |
+| `decline_ground` (optional) | `safety`, `security`, `legal`, `licence`, `terms`, `privacy`, `money` or `owner-directive` - a ground that holds a decline whatever the measurement says. |
+
+| Quality effect | Allowed verdict |
+| --- | --- |
+| `measured-equal` | Decline is valid; cost, tokens, tool calls and latency may break the tie. |
+| `measured-worse-if-adopted` | Decline is valid on quality alone; cost is not needed as a reason. |
+| `measured-loss` | Adopt or adapt (a cheaper form, such as an on-demand lookup instead of a line on every turn); never decline on cost. |
+| `unmeasured` | Measure first: name the check, its owner and the threshold that decides. |
+| any, with a `decline_ground` | Decline is valid; the row still says what it forgoes. |
+
+Price both sides. A cost argument ("every injected line is paid again on every turn") states only what adoption costs; the forgone side needs its own number. A frequency ("most prompts need no lookup") counts how often the capability is needed, not how much worse the output is when it is needed and missing, so it is not a quality measurement. **Worked counterexample:** a recall-before-answer rule was declined because every injected line repeats on every turn and most short prompts needed no lookup. The forgone side was measurable and was not weighed: the receiver's own recall tools ran 0 times in 333 prompts, recall followed a context compaction in 10 of 44 cases, and 1 clear + 2 likely of 20 prompts answered without recall were worse. Repaired verdicts: the lookup itself is a measured loss, so it is adapted in a pull form (a lookup when unsure, and recall after a context compaction) rather than a line on every turn, with a trial that watches for a quality regression; the end-of-turn missed-lookup scorer, whose own effect was never measured, is measure first.
+
 ## Receiver explanation envelope
 
 Include the following portable information, using logical names rather than private topology:
