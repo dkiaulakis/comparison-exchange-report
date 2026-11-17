@@ -2,6 +2,10 @@
 
 Detailed revision evidence and limits: [improvement loop](references/improvement-loop.md).
 
+## 1.7.3 — 2026-11-17
+
+Make each actual recipient handout bilateral: incoming adopt/adapt, existing reuse, decline or deferral with safe destination, change, reason and observed stage; outgoing recommendations with their source and complete HOW. Distinguish donor adoption from receiver maintenance and source inspection from an exercised ordinary caller. Add a copyable portable receiving-assistant task and fresh-invocation/non-author trial limits. Retain complete HTML/PDF content and parity checks; use the host's documented export/recovery route, a compact page footer and one full applicable end creator block, with actual page inspection. Earlier public history and author/license are retained. Independently curated documentation only; no private host integration, executable helper, publication or sending authority is included. See the [preparation record](references/improvement-loop.md#173--2026-11-17-bilateral-handouts-and-truthful-implementation-stages).
+
 ## 1.6.0 — 2026-11-17
 
 Distinguish missing inputs, unsupported reader profiles, genuine refusals and terminal transport faults before declaring material inaccessible. Preserve independently admitted scope and documented recovery routes. Check bundle dependencies, conflicting guidance and actual embedded content rather than trusting introductory privacy claims; identify historical receiver-authored material separately from new contributions. Default human-facing exchange handouts to self-contained HTML plus PDF, each with the complete operating method and receiving-assistant instructions, unless the user explicitly chooses otherwise. Require parity, rendering, opening and disclosure checks on both exact exports; a missing required format holds delivery without authorizing another channel. Align the README's edition label. Documentation only; no reader, authority or automatic fallback is added. See the [preparation record](references/improvement-loop.md#160--2026-11-17-qualify-intake-and-inspect-the-bundle).

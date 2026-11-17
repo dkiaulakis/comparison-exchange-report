@@ -10,6 +10,8 @@ Default to purpose/audience/scope, the useful comparison and prioritized optiona
 
 Name the actor on a proposal: sender’s instruction owner, receiver’s product team, or a joint contract. A priority is not a work order. Keep future acceptance cases explicitly unexecuted until actual results exist.
 
+Preserve both directions near the opening of every recipient format. For each selected supplied practice, state adopted/adapted, reused because already present, declined or deferred; name its safe destination, actual change, reason and observed stage/limits. Then give the recommendations back, their experience/material/general-knowledge source and complete operating method. An internal matrix cannot fill content missing from the recipient's HTML or PDF. An evidenced no-new-adoption outcome is useful; do not manufacture implementation.
+
 Reserve an actual-observations block for checks really executed and what they printed, including honest failures. Put illustrative or unexecuted acceptance cases in a separately labelled example block; an explicitly example-labelled block cannot supply actual observations. A format check proves neither execution nor semantic consistency: read the complete current explanation and dated history to reconcile their claims.
 
 ## Corpus and evidence ledger
@@ -54,6 +56,18 @@ For a meaningful usability check give a reader the package and a realistic task 
 For visual output inspect actual desktop/mobile renders, text contrast, overflow, diagram labels and keyboard navigation. Exercise the route from decision to next action and supporting evidence; do not count screenshots or successful HTTP responses as reader acceptance. Keep mechanical checks and semantic/visual findings separate, including failures.
 
 **Synthetic media example — expected decisions, not executed observations.** A donor reports eight passing toy cases; the receiver has an unactivated source patch. A reference URL matches, but the actual clip has not been inspected. The brief intentionally starts with a door open. Report the toy result as supplied evidence and the patch as source-only. Keep contact/motion, rights and output quality unknown; do not reject the open door merely because a generic example starts closed. A useful next step is an authorized offline adversarial check of intent-aware state handling, with the allowed open-door case retained. A real-media pilot remains proposed until its inputs, access and any budget are separately authorized. This example supplies neither a media measurement nor a universal validator.
+
+### Implementation and contribution evidence
+
+For an implementation claim, name the actual public entrypoint and ordinary caller, whether activation is default, opt-in or explicit, and the observed positive and refusal behavior with exact input/revision and results. A source helper without a reachable exercised caller remains source-only. A pure computation needs its entrypoint and controls, not an invented service. A technical file probe proves its own criteria, not creative quality or complete donor equivalence.
+
+Identify the supplied practice actually integrated. Receiver-side reporting, transport or infrastructure repairs triggered during an exchange are receiver maintenance; do not count them as installation of donor code or creative methods. Record no new donor implementation when that is the fact. Evidence-backed reuse/no-change remains valid. Keep source changes, current loaded behavior, output quality and accepted scope separate.
+
+### Fresh reader task
+
+Give a non-author only the exact safe package and a realistic task, without the author's intended verdict. Ask what came from the supplied work, where it went, what already existed, what was declined or deferred and why, and what is offered back from identified experience. Require input/output, ordered operation, failure/recovery, valid exception and one locally doable next check. Retain actual answers and difficulties. A tips-only package fails the bilateral question even if its private audit is complete.
+
+For a claimed control, an independent evaluator derives broken, repaired and valid alternative cases from the requirement, without the author's desired result. Disclose prior context and who supplied the oracle; independently executing a sender's oracle is not independently authoring it. Retained-context delta review is useful but not fresh-blind replication. Text presence, link resolution and screenshot counts remain static/structural evidence; they cannot replace semantic reconstruction or actual desktop/mobile/keyboard reading. Changed instructions need fresh-invocation evidence before claiming that scope.
 
 ## Staged acceptance and publication
 
@@ -113,6 +127,8 @@ One row per transferable idea, not per file or brand. Keep corpus coverage separ
 Each decision must fit its particular source revision and receiver gap: explain the concrete method to reuse/adapt/decline, the actor, the prerequisite and the acceptance boundary. Keep a general policy once; do not copy “decline another stack” into unrelated documentation, asset discovery, conversion and analysis rows. Later review disagreement needs its safe direction when known; if withheld or unknown, it is not an invitation to adopt. A reciprocal label without its actual safe recommendation is not a visible offer.
 
 Avoid unilateral sales language. A donor can be clearer but less integrated; a receiver can be operationally proven but harder to adopt. Explain both with evidence. No need to invent reciprocal superiority; “no substantiated improvement to offer yet” is fair when true.
+
+Project the safe meaning of decisions into every recipient format, without private proof fields. Where a destination is confidential, retain its logical role, actual change, reason and stage. Settled decisions and reversal guidance belong in explanatory detail, not sections that declare them unfinished. Keep active obligations visible under their original acceptance criteria; moving them to a future-ideas list does not satisfy them. A useful take-only row needs its decision and evidence-backed reason, not an invented return gift.
 
 ### Not-taken rows weigh their quality effect
 

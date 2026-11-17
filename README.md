@@ -4,7 +4,7 @@ A reusable workflow for fair technical comparisons and practical exchanges: what
 
 Compare tools, skills, plugins, Model Context Protocol (MCP) interfaces, workflows, or entire AI harnesses. A harness is the orchestration/runtime around a model or tool. The receiver should understand the exchange without the sender's infrastructure, code, terminology or accounts.
 
-**Public edition: 1.6.0.** Documentation only: no executable scripts, installer, telemetry, dependencies or credentials. Suitable for capable assistants and human teams across vendors and operating systems. Native skill discovery depends on the host; this package does not claim every vendor integration was tested.
+**Public edition: 1.7.3.** Documentation only: no executable scripts, installer, telemetry, dependencies or credentials. Suitable for capable assistants and human teams across vendors and operating systems. Native skill discovery depends on the host; this package does not claim every vendor integration was tested.
 
 ## Use with any assistant
 
@@ -24,6 +24,8 @@ For a whole-harness exchange, compare logical roles, architecture, persistence, 
 Lead with the useful decision, its consequence and next authorized action. Keep a short operating contract in view and include linked reconstruction details, coverage and dated evidence. A collapsed transcript still consumes a language model's input; use companion files instead of embedding the entire audit. Preserve objections, unknowns and unfinished product work. Concise does not mean incomplete.
 
 Human-facing exchange handouts default to both self-contained HTML and PDF unless the user explicitly chooses otherwise. Both retain the complete operating method, detailed instructions for a receiving language-model assistant, worked examples and limits; qualify content parity, rendering, opening and disclosure for each exact export before authorized delivery.
+
+Each actual handout explains both directions: what was adopted/adapted, reused, declined or deferred from the supplied work, where it fits, what changed or already existed and why; then what is offered back and its source/HOW. Receiver maintenance is identified separately from donor adoption. A private matrix or one-way tutorial cannot replace that account. Use a compact one-line PDF page footer and one complete applicable creator block at the end under the host contract. The [copyable receiving-assistant task](references/operating-details.md#receiving-assistant-task) explains a local, infrastructure-independent starting sequence and refusal/recovery boundaries.
 
 - Complete supplied-material inventory, revisions, duplicate relationships and read limits.
 - Current receiver evidence separating claims, source changes, installation, enablement, executed quality and proposals.
