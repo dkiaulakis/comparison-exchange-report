@@ -6,7 +6,7 @@ description: >-
 
 # Comparison exchange report
 
-Version 1.7.3 · Public, vendor-neutral edition · 2026-11-17.
+Version 1.7.4 · Public, vendor-neutral edition · 2026-11-17.
 
 Help both sides decide what to reuse, adapt, decline or defer, why, and what would prove the next step. Neither side is presumed to know the other's private system. This optional workflow grants no execution, installation, production, spending or outbound authority; follow the user's scope and the host's protections.
 

@@ -2,6 +2,10 @@
 
 Detailed revision evidence and limits: [improvement loop](references/improvement-loop.md).
 
+## 1.7.4 — 2026-11-17
+
+Keep output-schema prose, copied receiving-assistant instructions and worked examples consistent about required records, empty-list exceptions and status values. Distinguish planning descriptions from actual check results; label focused excerpts and ask a non-author to reconstruct applicable edge cases before both exports. This narrow correction follows observed reader ambiguity, not a new universal schema or execution requirement. Documentation only; existing history, author, licence and authority boundaries are preserved.
+
 ## 1.7.3 — 2026-11-17
 
 Make each actual recipient handout bilateral: incoming adopt/adapt, existing reuse, decline or deferral with safe destination, change, reason and observed stage; outgoing recommendations with their source and complete HOW. Distinguish donor adoption from receiver maintenance and source inspection from an exercised ordinary caller. Add a copyable portable receiving-assistant task and fresh-invocation/non-author trial limits. Retain complete HTML/PDF content and parity checks; use the host's documented export/recovery route, a compact page footer and one full applicable end creator block, with actual page inspection. Earlier public history and author/license are retained. Independently curated documentation only; no private host integration, executable helper, publication or sending authority is included. See the [preparation record](references/improvement-loop.md#173--2026-11-17-bilateral-handouts-and-truthful-implementation-stages).
